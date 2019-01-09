@@ -8,4 +8,3 @@ note: Light Purple Color for TCP Traffic
 Light Blue for UDP
 Black for Packet with Error :- Eg: This packets are delivered in an unordered manner
 To check color coding click on View and select "Coloring Rules". this color coding rule can be customised and modified to fit your needs.
-
