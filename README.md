@@ -25,3 +25,16 @@ To check color coding click on View and select "Coloring Rules". This color codi
 3. Accordind to Zillo, what instrument will Ryan learn to play?
 4. How many web servers are running Apache?
 5. What host (ip addresses) think that jokes are more entertaining when they are explained?
+
+				CF Pract 2
+Wireshark
+
+1. Display packets based on specific IP address
+2. Display packets coming from specific ip address
+3. Display packets coming from specific destination
+4. Display packets using HTTP protocol
+5. Display packets using HTTP Request
+6. Display packets using TCP protocol
+7. Having no connection to server
+8. Having Port No. 80
+9. Packets that contain Keyword "Facebook"
